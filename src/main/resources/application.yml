@@ -1,0 +1,14 @@
+spring:
+  datasource:
+    url: 'jdbc:mysql://zemoga-test-db.crhpedy9xxto.us-east-1.rds.amazonaws.com:3306/briefcaseDB'
+    username: 'zemoga_test_db'
+    password: 'Zem0ga.101'
+  jpa:
+    hibernate:
+      ddl-auto: validate
+zemoga:
+  twitter-configuration:
+    apiKey: 'KRy7l0v8wex3w8Sy5zThai3Ea'
+    secretKey: 'X2eBm0Y21kYEuR74W3Frqc2JVIizOj8Q1EVGatDsEVVEJo0ucu'
+    accessToken: '1220032047516921859-otvXjhExyUTZ5GLxssc9h5ORqtPZja'
+    secretToken: 'tmJKqM4ORfQW6CH7wIVV8uKNpmSEmeFAP8lYwGb19uYjj'
